@@ -1,6 +1,7 @@
 ## Inter_Process_Communication_Using_Mailbox_in_SystemVerilog_PG
 EXPERIMENT 8– MAILBOX–BASED PACKET TRANSFER USING SYSTEMVERILOG
-
+## Reg no: 25011767
+## Name: Khotla Gagan Prathyush
 ## Aim
 To design and verify a SystemVerilog testbench that uses mailbox to transfer randomized packet objects from a Generator to a Driver, demonstrating synchronised communication in verification environments.
 
@@ -97,6 +98,7 @@ endmodule
 ```
 
 ## OUTPUT
+![WhatsApp Image 2025-12-17 at 11 08 14 AM](https://github.com/user-attachments/assets/80c0598b-9f81-49f6-bb3e-560be56f8fb8)
 
 ## RESULT
 The packet objects were successfully randomized.
